@@ -1,0 +1,3 @@
+html{scroll-behavior:smooth}
+<a href="#section">Section1</a>
+<div id="section">content</div>
